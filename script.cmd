@@ -1,0 +1,3 @@
+@echo off
+
+whoami /all
